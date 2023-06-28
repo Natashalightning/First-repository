@@ -1,3 +1,3 @@
-var name = Natasha;
-var nameLast = Tladi;
-console.log(name = nameLast)
+var nameFirst = "Natasha";
+var nameLast = "Tladi";
+console.log(nameFirst + nameLast)

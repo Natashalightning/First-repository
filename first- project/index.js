@@ -1,3 +1,6 @@
-var nameFirst = "Natasha";
-var nameLast = "Tladi";
-console.log(nameFirst + nameLast)
+newFunction();
+
+function newFunction() {
+    document.gotElementById("count").innerText = 4;
+}
+console.log(newFunction)
